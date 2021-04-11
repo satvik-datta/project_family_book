@@ -1,0 +1,24 @@
+body {
+    text-align: left;
+    background-color: chocolate;
+}
+img {
+    height: 490px;
+    width: 500px;
+}
+#name {
+    color: cornsilk;
+    margin-top: 10px;
+}
+#Name {
+    color: cornsilk;
+    font-size: large;
+}
+#button {
+    border-radius: 100;
+    border-width: 5px;
+    border: cornsilk;
+    margin-left: 40px;
+    background-color: coral;
+    color: cornsilk;
+}
